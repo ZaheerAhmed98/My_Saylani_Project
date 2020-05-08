@@ -1,0 +1,79 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+    
+  }
+  .asst{
+width: 1200px;
+  }
+  table{
+    margin: 50px auto;
+    font-family: Calibri; 
+    color:white; 
+    font-size: 20pt; 
+    font-style: normal;
+    font-weight: lighter;
+    text-align:; 
+    background-color: black; 
+    border-collapse: collapse; 
+    border: 4px solid white;
+    text-align: center;
+    
+  } 
+  td{
+    height: 70px;
+  }
+  td a{
+    color: white;
+  }
+  .heading{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1em;
+  }
+  .hov:hover{
+    background-color: thistle;
+    border-radius: 15px;  
+  }
+  .hov{
+    transition: all 0.8s;
+  }
+  th{
+    font-size: 40px;
+  }
