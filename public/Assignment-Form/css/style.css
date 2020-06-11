@@ -1,0 +1,51 @@
+h3{
+    font-family: Calibri; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:SlateBlue;
+    text-align: center; 
+    text-decoration: underline
+  }
+  
+  table{
+    font-family: Calibri; 
+    color:white; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: lighter;
+    text-align:; 
+    background-color: SlateBlue; 
+    border-collapse: collapse; 
+    border: 4px solid navy
+  }
+  table.inner{
+    border: 0px
+  }
+  .q{
+    border: 4px solid SlateBlue
+  }
+  .im{
+    display: block;  
+    margin-left: auto;
+      margin-right: auto;
+  }
+  .ty{
+    font-size: 40px;
+    color:rgb(0,179,49);
+    text-align: center;
+  }
+  .yf{
+    
+    color: rgb(114,4,201);
+    text-align: center;
+  }
+  .tick{
+    margin-top: 130px;
+    text-align: center;
+  }
+  .gb{
+    color: rgb(100,0,142);
+    text-align: center;
+
+  }

@@ -1,0 +1,77 @@
+.n1 li{
+    margin: auto 30px;
+    font-size: 20px !important;
+}
+header{
+    /* border: 4px solid red; */
+    padding-bottom: 80px;
+}
+.navbar-brand{
+    padding-right: 20px;
+    border-right: 2px solid white;
+}
+.n1{
+    /* margin-bottom: 100px; */
+    /* overflow: hidden; */
+    background-color: #333;
+    position: fixed !important; 
+    top: 0; 
+    z-index: 1;
+    width: 100%;
+}
+.dropdown-menu{
+    background-color: #343A40 !important;
+}
+.dropdown-item{
+    color: rgba(255,255,255,0.5) !important;
+}
+
+.dropdown-item:hover{
+    color: #343A40 !important;
+}
+
+    .footer1{
+        background-color: #333;
+        color: lightgray;
+        padding: 60px;
+        
+    }
+    .footer1 img{
+        margin: 2px 4px;
+    }
+    .footer1 h4{
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+    }
+    .footer2{
+        margin: 0 40px;
+    }
+    .footer1 li{
+        list-style: none;
+        font-size: 12px;
+    }
+    .slider img{
+        /* width: 1000px !important; */
+        height: 450px !important;
+    }
+    .heading1{
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        margin: 20px 20px;
+        
+    }
+    .cmh{
+        margin: 10px 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .cards1 img:hover{
+        opacity: 0.75;
+    }
+    .cards1 img{
+        height: 240px;
+    }
+    .cards2{
+        margin: 0 auto;
+    }
